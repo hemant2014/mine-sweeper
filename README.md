@@ -18,7 +18,7 @@ This is a simple Mine Sweeper game implemented in java. This is command-line bas
   - git clone https://github.com/hemnat2014/mine-sweeper.git
   - cd mine-sweeper
 2. Compile the project
-  - mcn clean install
+  - mvn clean install
 3. Run the game
   - java -cp out minesweeper.MineSweeper
 4. Run unit test
