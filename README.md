@@ -6,7 +6,7 @@ This is a simple Mine Sweeper game implemented in java. This is command-line bas
 
  ## Features
  - Play MineSweeper in terminal.
- - Configure the boarde size and muber of mines
+ - Configure the board size and number of mines
  - Recursive auto uncovers the empty cell or "0" cell.
  - Track win/loss conditions.
  - Includes unit test cases.
